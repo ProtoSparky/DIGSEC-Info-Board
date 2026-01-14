@@ -1,1 +1,4 @@
 site_name: Klasseinfo
+nav:
+  - Home: index.md
+  - DCSG1005: ./DCSG1005/dcsg1005.md
