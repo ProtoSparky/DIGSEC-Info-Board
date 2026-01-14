@@ -1,1 +1,0 @@
-# DIGSEC-Info-Board
