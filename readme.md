@@ -20,4 +20,4 @@ To deploy your code to github pages, make sure you have push access to ``DIGSEC-
 
 ``cd ../ProtoSparky.github.io/``
 
-``mkdocs gh-deploy --config-file ../DIGSEC-Info-Board/mkdocs.yml --remote-branch master``
+``mkdocs gh-deploy --config-file ../DIGSEC-Info-Board/mkdocs.yml --remote-branch main``
