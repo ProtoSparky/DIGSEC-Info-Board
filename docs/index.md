@@ -1,6 +1,7 @@
 # Kommende Obliger
 
 Her er de kommende obligene for fagene i 2. semester.
+
 Du kan se hele listen [her](./obliger.md)
 
 |Dato|Fag|Mer info|
@@ -16,6 +17,9 @@ Du kan se hele listen [her](./obliger.md)
 # Generell
 ## Resurrser
 * [NTNU lisensert Microsoft Copilot](https://m365.cloud.microsoft/chat)
+## Onedrive mapper (Gruppearbeid)
+* <a href="https://studntnu-my.sharepoint.com/:f:/g/personal/kristupk_ntnu_no/IgBvqg8BuiCJTbcNRG0PyKrXAagWiX8FV18j11368RC6Hn4?e=eXDOJB" target="_blank">PROG1004</a>
+
 
 -------------
 
@@ -45,4 +49,9 @@ Pensumet er tatt fra "Engineering Software Products - an introduction to modern 
 * [Oppgaver](https://frh.folk.ntnu.no/ooprog/oppgaver/ooprog.pdf)
 * [Videoer](https://frh.folk.ntnu.no/ooprog/videoer)
 * [Opplegg](https://frh.folk.ntnu.no/ooprog/opplegg.html)
+
 Sidehenvisningene er til boka "Starting Out With C++ Early Objects", 9.utgave (Global Edition), T.Gaddis/J.Walters/G.Muganda, Pearson 2016. 
+
+-------------
+
+![](./src/img/standards_.jpg)
