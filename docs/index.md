@@ -24,8 +24,11 @@ Du kan se hele listen [her](./obliger.md)
 -------------
 
 # [DCSG1006](./DCSG1006/dcsg1006.md)
+Sterkt anbefales å se CCNA kurset dalig
+
 ## Resurrser
 * [Cisco NetAcad](https://www.netacad.com/dashboard)
+* [CCNA complete course (Youtube)](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
 
 -------------
 
