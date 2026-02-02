@@ -6,7 +6,6 @@ Du kan se hele listen [her](./obliger.md)
 
 |Dato|Fag|Mer info|
 |---|---|---|
-|1. Februar|DCSG1006|Mandatory exam|
 |5. Februar|PROG1003|Oblig oppgave 1|
 |6. Februar|PROG1004|Lag prosjektplan for TAP (TippeApplikasjon-Prosjekt, Fotball VM)|
 |15. Februar|DCSG1006|Mandatory Exam|
