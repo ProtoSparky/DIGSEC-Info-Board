@@ -2,8 +2,6 @@ Her er alle obligene sortert etter dato
 
 |Dato|Fag|Mer info|
 |---|---|---|
-|27. Februar|PROG1004|Oblig 2. Individuell.  Lag en kravspesifikasjon|
-|1. Mars |PROG1006|Oblig 1 Individuell oppgave| 
 |10. Mars|PROG1003|Oblig oppgave 3|
 |13. Mars|DCSG1005||
 |20. Mars|PROG1004|Frist oblig 3. Gruppe oppgave|
