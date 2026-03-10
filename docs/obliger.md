@@ -2,7 +2,6 @@ Her er alle obligene sortert etter dato
 
 |Dato|Fag|Mer info|
 |---|---|---|
-|10. Mars|PROG1003|Oblig oppgave 3|
 |15. Mars|DCSG1005|Gruppe oppgave|
 |20. Mars|PROG1004|Frist oblig 3. Gruppe oppgave|
 |30. Mars|DSCG1006|Oblig 2 frist| 

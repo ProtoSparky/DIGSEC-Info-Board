@@ -6,11 +6,11 @@ Du kan se hele listen [her](./obliger.md)
 
 |Dato|Fag|Mer info|
 |---|---|---|
-|10. Mars|PROG1003|Oblig oppgave 3|
 |15. Mars|DCSG1005|Gruppe oppgave|
 |20. Mars|PROG1004|Frist oblig 3. Gruppe oppgave|
 |30. Mars|DSCG1006|Oblig 2 frist| 
 |7. April| PROG1003| Prosjekt oppgave. Mer info kommer senere|
+|17. April|PROG1004|Oblig 3. Individuell innlevering|
 
 -------------
 
